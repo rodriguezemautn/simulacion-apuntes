@@ -1,0 +1,40 @@
+# Instrucciones para modelo de Simulink
+
+## Crear modelo de números aleatorios
+
+1. Abre Simulink:
+   - En MATLAB, escribe: simulink
+
+2. Crea un nuevo modelo vacío.
+
+3. Arrastra los siguientes bloques desde la librería:
+   - Sources > Random Number
+   - Sinks > Scope
+   - Sinks > To Workspace
+
+4. Conecta los bloques:
+   Random Number → Scope
+                 ↓
+             To Workspace
+
+5. Configura el bloque Random Number:
+   - Distribution: Uniform
+   - Min: 0
+   - Max: 1
+   - Sample time: 1
+
+6. Configura el bloque To Workspace:
+   - Variable name: datosAleatorios
+   - Save format: Array
+
+7. Configura tiempo de simulación:
+   - En la barra superior, escribe 1000
+
+8. Ejecuta la simulación (▶️)
+
+9. En la consola de MATLAB:
+   - Visualiza los datos:
+     disp(datosAleatorios(1:10));
+   - Grafica histograma:
+     figure;
+     histogram(datosAleatorios, 20);

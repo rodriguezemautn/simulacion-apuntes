@@ -1,0 +1,62 @@
+# =============================================================================
+#  Repositorio de DOCUMENTACIÓN — Simulación (UTN FRLP)
+#
+#  Criterio: SOLO TEXTO.
+#  El material crudo (PDFs, imágenes, videos, planillas, instaladores y el
+#  material pesado de Matlab) NO se versiona: es binario, no tiene diffs y
+#  pesa gigas.
+# =============================================================================
+
+# --- 1. Ignorar absolutamente todo -------------------------------------------
+*
+
+# --- 2. Permitir recorrer los directorios ------------------------------------
+!*/
+
+# --- 3. Permitir únicamente la documentación en texto ------------------------
+!.gitignore
+!README.md
+!*.md
+!*.txt
+!*.m
+
+# --- 4. Refuerzo explícito: lo pesado NUNCA entra ----------------------------
+# Material de varios GB
+Matlab/
+Matlab.rar
+Bibliografia/
+simulacion-ursada/
+
+# Binarios y comprimidos
+*.rar
+*.zip
+*.7z
+*.exe
+*.msi
+*.dll
+*.mexw64
+*.dat
+
+# Documentos ofimáticos (no tienen diff útil)
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.s8
+*.pcap
+~$*
+
+# Imágenes y video
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+*.url
+*.nfo
+*.css
+*.html

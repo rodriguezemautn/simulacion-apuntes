@@ -1,0 +1,19 @@
+Fenómenos de espera
+
+Lecturas previas recomendadas
+
+📚Gross et al. (2018). Fundamentals of Queueing Theory. Wiley
+
+Lectura comprensiva del texto de Gross et al. (2018)
+
+📌Capítulo 1
+
+1.2 Characteristics of Queueing Systems
+
+1.3 The Experience of Waiting
+
+1.4 Little’s Law
+
+📌Capítulo 2
+
+2.2 The Poisson Process

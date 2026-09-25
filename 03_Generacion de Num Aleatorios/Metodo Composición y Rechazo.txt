@@ -1,0 +1,15 @@
+Métodos de Composición y Rechazo
+
+Lecturas previas recomendadas
+
+
+
+📚Coss Bu, R. (2003). Simulación. Un enfoque práctico. Limusa
+
+
+
+Lectura comprensiva del texto de Coss Bu (2003), focalizando particularmente en los métodos de generación de variables aleatorias siguientes:
+
+📌Método de composición (p.56)
+
+📌Método de rechazo (p.53)

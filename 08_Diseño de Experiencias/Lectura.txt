@@ -1,0 +1,14 @@
+Clase 7
+
+TEXTOS
+📚 Montgomery, D. (2004). Diseño y análisis de experimentos. Limusa
+Páginas:
+📌170-174
+📌218 en adelante
+📌274 en adelante
+📌427 en adelante
+📚 Walpole, R. (2012). Probabilidad y estadística para ingeniería y ciencias. Pearson
+Páginas:
+📌639-643
+📌443-446
+📌462 (12.6)
