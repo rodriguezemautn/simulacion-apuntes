@@ -132,7 +132,7 @@ La importancia de la materia Simulación en la formación del graduado, radica e
 <table width="100%" style="border-collapse:collapse;border:1px solid #000;font-family:'Gill Sans MT','Gill Sans',Calibri,sans-serif;">
 <tr>
 <td style="width:60%;background:#0b1a3a;color:#9dc3e6;text-align:center;padding:60px 10px;font-size:0.8em;">[imagen: fechas/números en azul]</td>
-<td style="width:40%;background:#1f3864;color:#fff;padding:20px;"><div style="font-size:1.4em;">GRACIAS</div><div style="font-size:0.7em;">BGLOPEZA@GMAIL.COM</div></td>
+<td style="width:40%;background:#1f3864;color:#fff;padding:20px;"><div style="font-size:1.4em;">GRACIAS</div><div style="font-size:0.7em;">[contacto del docente omitido]</div></td>
 </tr>
 </table>
 

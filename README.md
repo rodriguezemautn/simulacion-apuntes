@@ -83,3 +83,12 @@ Los únicos archivos **no** markdown que se versionan son 3 scripts `.m` de la c
 
 - Los PDFs de las clases son, en gran parte, **imágenes** (powerpoint impreso a PDF). Por eso existen las transcripciones `.md`: son la forma de tener ese contenido en texto.
 - Cuando una unidad no tenga transcripción, la fuente se transcribe a demanda, no se procesa en masa.
+
+---
+
+## Origen y uso del material
+
+- Las transcripciones de las presentaciones de clase son de **uso académico personal** y reproducen material cuyos derechos pertenecen a sus autores: la cátedra de Simulación de la UTN FRLP (Prof. Bernardo G. López Armengol; Francisco Roqué; Leslie Monges).
+- `Simulacion_Planificacion_Ord1877.md` es la transcripción de un **documento oficial** de la Universidad Tecnológica Nacional — Facultad Regional La Plata.
+- Los apuntes, resúmenes y formularios de `apuntes/` son de elaboración propia a partir de ese material.
+- Se omitieron datos de contacto personales de terceros.
