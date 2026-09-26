@@ -19,8 +19,15 @@ Decisión pendiente: por reglamento, si se puede rendir en octubre y **volver a 
 | `U5_modelos-dinamicos-y-colas/formulario.md` | Completo |
 | `90_transversal/fuentes-externas.md` | Tutorial SimEvents M/M/1 registrado |
 | `95_fuentes-ocr/` | Solo un OCR parcial de la Clase 1 (baja utilidad) |
+| `U2_simulacion-y-aleatorios/` | teoría · formulario · **autoevaluación** · recursos externos |
+| `U3_variables-aleatorias-continuas/` | teoría · formulario |
 
-**Sin documentar**: U2, U3, U4, **U6 (crítico)**, U7, U8.
+**Sin documentar**: U4, **U6 (crítico)**, U7, U8.
+
+## Repositorio
+
+Versionado en git y publicado: **https://github.com/rodriguezemautn/simulacion-apuntes**
+Solo texto (28+ archivos). Quedan fuera `simulacion-ursada/` (9,5 G), `Matlab/` + `Matlab.rar` (14,7 G), `Bibliografia/` (958 M) y todos los binarios.
 
 ## Autoevaluación U1 — resultado
 
@@ -37,10 +44,10 @@ El `Resumen.pdf` propio tenía **5 pasos** del proceso; en la evaluación record
 
 ## Pendientes inmediatos (en orden)
 
-1. Terminar la autoevaluación U1: explicar los 10 pasos · Punto 4 · Punto 5.
+1. Rendir la **evaluación de U2** (ya diseñada) y cerrar la de U1 (explicar los 10 pasos · Punto 4 · Punto 5).
 2. Documentar **U6** (diseño de experiencias + ANOVA + RSM): es el **hueco crítico** y el bloque de mayor peso horario (22,5 de 67,5).
 3. U7 y U8 (continuos, software, dinámica de sistemas).
-4. U2, U3, U4.
+4. U4.
 5. Confirmar por reglamento si octubre y diciembre son compatibles.
 
 ## Trampas de examen ya identificadas

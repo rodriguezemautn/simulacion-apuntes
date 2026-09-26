@@ -51,8 +51,8 @@ Todo enunciado de contenido lleva una etiqueta:
 | Unidad | Estado |
 |---|---|
 | U1 — Sistemas y modelos | teoría · autoevaluación · recursos externos |
-| U2 — Toma de datos, bondad de ajuste, números aleatorios | teoría · formulario · recursos externos |
-| U3 — Variables aleatorias continuas | pendiente |
+| U2 — Toma de datos, bondad de ajuste, números aleatorios | teoría · formulario · autoevaluación · recursos externos |
+| U3 — Variables aleatorias continuas y Montecarlo | teoría · formulario |
 | U4 — Sistemas discretos | pendiente |
 | U5 — Modelos dinámicos y colas | teoría · formulario |
 | U6 — Diseño de experiencias, ANOVA y RSM | **pendiente (crítico)** |
