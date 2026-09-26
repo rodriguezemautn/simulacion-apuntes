@@ -17,6 +17,8 @@ Decisión pendiente: por reglamento, si se puede rendir en octubre y **volver a 
 | `U1_sistemas-y-modelos/recursos-externos.md` | Completo (videos filtrados + texto UOC) |
 | `U5_modelos-dinamicos-y-colas/teoria.md` | Completo |
 | `U5_modelos-dinamicos-y-colas/formulario.md` | Completo |
+| `U5_modelos-dinamicos-y-colas/autoevaluacion.md` | Completo |
+| `U5_modelos-dinamicos-y-colas/recursos-externos.md` | Completo |
 | `90_transversal/fuentes-externas.md` | Tutorial SimEvents M/M/1 registrado |
 | `95_fuentes-ocr/` | Solo un OCR parcial de la Clase 1 (baja utilidad) |
 | `U2_simulacion-y-aleatorios/` | teoría · formulario · **autoevaluación** · recursos externos |

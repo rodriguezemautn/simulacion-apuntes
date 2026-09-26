@@ -54,7 +54,7 @@ Todo enunciado de contenido lleva una etiqueta:
 | U2 — Toma de datos, bondad de ajuste, números aleatorios | teoría · formulario · autoevaluación · recursos externos |
 | U3 — Variables aleatorias continuas y Montecarlo | teoría · formulario |
 | U4 — Sistemas discretos | pendiente |
-| U5 — Modelos dinámicos y colas | teoría · formulario |
+| U5 — Modelos dinámicos y colas | teoría · formulario · autoevaluación · recursos externos |
 | U6 — Diseño de experiencias, ANOVA y RSM | **pendiente (crítico)** |
 | U7 — Simulación continua | pendiente |
 | U8 — Software de simulación | pendiente |
