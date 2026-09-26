@@ -50,14 +50,16 @@ Todo enunciado de contenido lleva una etiqueta:
 
 | Unidad | Estado |
 |---|---|
-| U1 — Sistemas y modelos | teoría · autoevaluación · recursos externos |
-| U2 — Toma de datos, bondad de ajuste, números aleatorios | teoría · formulario · autoevaluación · recursos externos |
-| U3 — Variables aleatorias continuas y Montecarlo | teoría · formulario |
-| U4 — Sistemas discretos | pendiente |
-| U5 — Modelos dinámicos y colas | teoría · formulario · autoevaluación · recursos externos |
+| U1 — Sistemas y modelos | teoría · autoevaluación · recursos externos · bibliografía |
+| U2 — Toma de datos, bondad de ajuste, números aleatorios | teoría · formulario · autoevaluación · recursos externos · bibliografía |
+| U3 — Variables aleatorias continuas y Montecarlo | teoría · formulario · bibliografía |
+| U4 — Sistemas discretos y Simul8 | teoría |
+| U5 — Modelos dinámicos y colas | teoría · formulario · autoevaluación · recursos externos · bibliografía |
 | U6 — Diseño de experiencias, ANOVA y RSM | **pendiente (crítico)** |
 | U7 — Simulación continua | pendiente |
-| U8 — Software de simulación | pendiente |
+| U8 — Software de simulación y dinámica de sistemas | pendiente |
+
+El cruce de la **bibliografía** contra las unidades documentadas está en [`apuntes/90_transversal/bibliografia.md`](apuntes/90_transversal/bibliografia.md) — incluye el hallazgo de que **la bibliografía obligatoria de la cátedra (Shannon, Coss Bu) está escaneada y no es legible**.
 
 El detalle del estado, las trampas de examen detectadas y los pendientes están en [`apuntes/00_plan/estado.md`](apuntes/00_plan/estado.md).
 

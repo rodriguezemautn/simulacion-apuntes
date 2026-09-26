@@ -22,9 +22,16 @@ Decisión pendiente: por reglamento, si se puede rendir en octubre y **volver a 
 | `90_transversal/fuentes-externas.md` | Tutorial SimEvents M/M/1 registrado |
 | `95_fuentes-ocr/` | Solo un OCR parcial de la Clase 1 (baja utilidad) |
 | `U2_simulacion-y-aleatorios/` | teoría · formulario · **autoevaluación** · recursos externos |
-| `U3_variables-aleatorias-continuas/` | teoría · formulario |
+| `U3_variables-aleatorias-continuas/` | teoría · formulario · **bibliografía cruzada** |
+| `U4_sistemas-discretos/` | **teoría** |
+| `90_transversal/bibliografia.md` | **mapa de legibilidad de las 49 fuentes** |
 
-**Sin documentar**: U4, **U6 (crítico)**, U7, U8.
+Cada unidad documentada tiene además un `bibliografia.md` con el cruce tema-por-tema contra los libros y **las discrepancias marcadas**.
+
+**Sin documentar**: **U6 (crítico)**, U7, U8.
+
+### Hallazgo de bibliografía
+La bibliografía **obligatoria** de la cátedra —**Shannon y Coss Bu**— está en **escaneos sin capa de texto**: no se puede leer ni buscar. Las versiones `_ocr` **tampoco** tienen texto. Fishman, Law & Kelton, Borelli-Coleman y Braun **no están en el directorio**. Las fuentes legibles que los reemplazan son `Librodesimulacion.pdf`, `Barcelo`, `Simulacion_de_sistemas`, `Banks` y `Ross ocr`.
 
 ## Repositorio
 
