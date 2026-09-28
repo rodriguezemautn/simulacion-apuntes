@@ -55,9 +55,11 @@ Todo enunciado de contenido lleva una etiqueta:
 | U3 — Variables aleatorias continuas y Montecarlo | teoría · formulario · bibliografía |
 | U4 — Sistemas discretos y Simul8 | teoría |
 | U5 — Modelos dinámicos y colas | teoría · formulario · autoevaluación · recursos externos · bibliografía |
-| U6 — Diseño de experiencias, ANOVA y RSM | **pendiente (crítico)** |
-| U7 — Simulación continua | pendiente |
-| U8 — Software de simulación y dinámica de sistemas | pendiente |
+| U6 — Diseño de experiencias, ANOVA y RSM | teoría · formulario |
+| U7 — Simulación continua | teoría · formulario |
+| U8 — Dinámica de sistemas y software de simulación | teoría |
+
+**Las 8 unidades del programa analítico están documentadas.** Falta la bibliografía cruzada de U6, U7 y U8, y las evaluaciones de U3–U8.
 
 El cruce de la **bibliografía** contra las unidades documentadas está en [`apuntes/90_transversal/bibliografia.md`](apuntes/90_transversal/bibliografia.md) — incluye el hallazgo de que **la bibliografía obligatoria de la cátedra (Shannon, Coss Bu) está escaneada y no es legible**.
 

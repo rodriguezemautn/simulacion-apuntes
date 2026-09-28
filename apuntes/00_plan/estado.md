@@ -28,7 +28,7 @@ Decisión pendiente: por reglamento, si se puede rendir en octubre y **volver a 
 
 Cada unidad documentada tiene además un `bibliografia.md` con el cruce tema-por-tema contra los libros y **las discrepancias marcadas**.
 
-**Sin documentar**: **U6 (crítico)**, U7, U8.
+**Sin documentar**: nada de contenido. Faltan **bibliografía cruzada** de U6/U7/U8 y las **evaluaciones** de U3 en adelante.
 
 ### Hallazgo de bibliografía
 La bibliografía **obligatoria** de la cátedra —**Shannon y Coss Bu**— está en **escaneos sin capa de texto**: no se puede leer ni buscar. Las versiones `_ocr` **tampoco** tienen texto. Fishman, Law & Kelton, Borelli-Coleman y Braun **no están en el directorio**. Las fuentes legibles que los reemplazan son `Librodesimulacion.pdf`, `Barcelo`, `Simulacion_de_sistemas`, `Banks` y `Ross ocr`.
